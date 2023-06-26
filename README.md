@@ -8,6 +8,8 @@ This repo contains an ExpressJS server I wrote for handling user login credentia
 - Username/Password Database
 - Database error handling
 - Easy to use query system
+- User transaction history
+- Luhn's Checking for card verification
 
 ## Contribution
 Contributions are of course welcome.
