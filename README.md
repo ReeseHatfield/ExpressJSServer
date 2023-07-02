@@ -10,6 +10,7 @@ This repo contains an ExpressJS server I wrote for handling user login credentia
 - Easy to use query system
 - User transaction history
 - Luhn's Checking for card verification
+- Several HTTP endpoints
 
 ## Contribution
 Contributions are of course welcome.
